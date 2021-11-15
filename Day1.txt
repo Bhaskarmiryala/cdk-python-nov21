@@ -1,0 +1,17 @@
+Applications
+1. Rich Applications
+		Installed on client machine
+		CPU / RAM / 
+2. Thin Applications -> Web Applications
+		No client Expectation (Network COnnectivity + Browser)
+		
+		Client---------------> Web Server (http request + http response)
+		Browser					
+			Round Trip to Server
+3. Rich Internet Applications (RIA)
+	
+Services (REST Services-> Micro Services)
+	ZoomClient (Code as Service)
+		1. Web Applications (Browser)
+		2. Rich Application
+		3. Mobile 
